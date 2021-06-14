@@ -1,0 +1,102 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/wallpaperflare.com_wallpaper.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 892px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 571px;
+  height: 518px;
+  margin: 123px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
+  margin: -472px 315px 0 286px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  width: 826px;
+  animation-duration: 1250ms;
+  margin: 25px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 736px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 74px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -483px;
+    margin-right: 215px;
+    margin-left: 186px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 85px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 564px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 105px;
+    margin-left: 76px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 423px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 540px;
+    margin-top: 22px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -431px;
+    margin-right: 1px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 266px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    width: 340px;
+    margin-top: -34px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -375px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}
